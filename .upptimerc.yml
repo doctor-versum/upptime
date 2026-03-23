@@ -5,21 +5,33 @@ repo: upptime # The name of this repository
 sites:
   - name: Homepage
     url: https://doctor-versum.me
+    maxResponseTime: 700
   - name: Homepage (Redirect)
     url: https://www.doctor-versum.me
+    maxResponseTime: 700
   - name: QuizzX
     url: https://quizzx.doctor-versum.me
+    maxResponseTime: 700
   - name: Share
     url: share.doctor-versum.me
+    maxResponseTime: 700
+  - name: Rammerhead
+    url: $RAMMERHEAD_DOMAIN
+  - name: Survey
+    url: $SURVEY_DOMAIN
   - name: GitHub
     url: https://GitHub.com
+    maxResponseTime: 700
   - name: Status
     url: https://status.doctor-versum.me
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
+    maxResponseTime: 700
+
+skipDeleteIssues: true
+assignees:
+  - doctor-versum
 
 status-website:
+  theme: gold
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.doctor-versum.me
@@ -31,8 +43,10 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Homepage
+      href: https://doctor-versum.me/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
