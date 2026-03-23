@@ -37,9 +37,9 @@ status-website:
   cname: status.doctor-versum.me
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Doctor Versum - Status
+  introTitle: "**Welcome!** Having problems with my Pages?"
+  introMessage: This status page is run by [Upptime](https://github.com/upptime/upptime). It runs in github pages. If my status page *and* my own pages are down, most likely some backbone provider is having issues. Look here for detailes: [Cloudflare](https://www.cloudflarestatus.com/) | [AWS](https://health.aws.amazon.com/health/status) | [GCP](https://status.cloud.google.com/) | [Azure](https://azure.status.microsoft/)
   navbar:
     - title: Status
       href: /
