@@ -31,8 +31,7 @@ assignees:
   - doctor-versum
 
 status-website:
-  theme: dark
-  themeUrl: https://status.doctor-versum.me/gold.css
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.doctor-versum.me
