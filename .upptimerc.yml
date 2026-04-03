@@ -19,6 +19,9 @@ sites:
     url: $RAMMERHEAD_DOMAIN
   - name: Survey
     url: $SURVEY_DOMAIN
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: GitHub
     url: https://GitHub.com
     maxResponseTime: 700
