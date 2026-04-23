@@ -1,7 +1,7 @@
 url: https://doctor-versum.me
-status: up
-code: 200
-responseTime: 397
-lastUpdated: 2026-04-22T23:41:35.725Z
+status: degraded
+code: 525
+responseTime: 27397
+lastUpdated: 2026-04-23T03:43:29.023Z
 startTime: 2026-03-23T14:05:30.915Z
 generator: Upptime <https://github.com/upptime/upptime>
