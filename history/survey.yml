@@ -1,7 +1,7 @@
 url: $SURVEY_DOMAIN
-status: down
-code: 530
-responseTime: 85
-lastUpdated: 2026-06-03T00:24:56.073Z
+status: up
+code: 404
+responseTime: 954
+lastUpdated: 2026-06-03T10:12:49.059Z
 startTime: 2026-03-23T14:46:19.785Z
 generator: Upptime <https://github.com/upptime/upptime>
