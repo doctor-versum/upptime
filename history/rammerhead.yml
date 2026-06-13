@@ -1,7 +1,7 @@
 url: $RAMMERHEAD_DOMAIN
-status: up
-code: 200
-responseTime: 381
-lastUpdated: 2026-06-13T06:24:31.625Z
+status: down
+code: 530
+responseTime: 48
+lastUpdated: 2026-06-13T20:53:05.771Z
 startTime: 2026-03-23T14:46:18.603Z
 generator: Upptime <https://github.com/upptime/upptime>
