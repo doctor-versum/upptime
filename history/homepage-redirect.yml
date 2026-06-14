@@ -1,7 +1,7 @@
 url: https://www.doctor-versum.me
-status: down
+status: degraded
 code: 530
-responseTime: 170
-lastUpdated: 2026-06-14T00:02:27.565Z
+responseTime: 1034
+lastUpdated: 2026-06-14T00:18:09.030Z
 startTime: 2026-03-23T14:05:31.823Z
 generator: Upptime <https://github.com/upptime/upptime>
